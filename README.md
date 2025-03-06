@@ -22,7 +22,7 @@ Styling: CSS (or mention if you're using a framework like Tailwind or Bootstrap)
 Follow these steps to set up the project locally:
 Clone the repository:
 
-git clone
+git clone <repository-url>
 cd invoice-generator
 Install dependencies
 
@@ -47,7 +47,7 @@ PDF Layout: Adjust the PDF generation logic in the handleDownloadPDF function.
 
 ### License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is for educational purposes only.
 
 ### Acknowledgments
 
