@@ -1,0 +1,100 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "store": "New York",
+        "regularPrice": 129.99,
+        "dealPrice": 100.0
+    },
+    {
+        "id": 2,
+        "name": "Smartwatch Pro",
+        "store": "London",
+        "regularPrice": 259.0,
+        "dealPrice": 200.0
+    },
+    {
+        "id": 3,
+        "name": "Gaming Laptop",
+        "store": "Los Angeles",
+        "regularPrice": 1599.99,
+        "dealPrice": 1450.0
+    },
+    {
+        "id": 4,
+        "name": "Mechanical Keyboard",
+        "store": "Berlin",
+        "regularPrice": 120.0,
+        "dealPrice": 99.99
+    },
+    {
+        "id": 5,
+        "name": "4K LED TV",
+        "store": "Tokyo",
+        "regularPrice": 999.0,
+        "dealPrice": 899.0
+    },
+    {
+        "id": 6,
+        "name": "Home Theater System",
+        "store": "San Francisco",
+        "regularPrice": 549.99,
+        "dealPrice": 500.0
+    },
+    {
+        "id": 7,
+        "name": "Smartphone X",
+        "store": "Sydney",
+        "regularPrice": 799.99,
+        "dealPrice": 749.0
+    },
+    {
+        "id": 8,
+        "name": "Wireless Earbuds",
+        "store": "Toronto",
+        "regularPrice": 89.99,
+        "dealPrice": 79.99
+    },
+    {
+        "id": 9,
+        "name": "Tablet Pro",
+        "store": "Paris",
+        "regularPrice": 699.0,
+        "dealPrice": 649.0
+    },
+    {
+        "id": 10,
+        "name": "Refrigerator 300L",
+        "store": "Mumbai",
+        "regularPrice": 1200.0,
+        "dealPrice": 1100.0
+    },
+    {
+        "id": 11,
+        "name": "Microwave Oven",
+        "store": "Dubai",
+        "regularPrice": 450.0,
+        "dealPrice": 400.0
+    },
+    {
+        "id": 12,
+        "name": "Bluetooth Speaker",
+        "store": "Singapore",
+        "regularPrice": 150.0,
+        "dealPrice": 130.0
+    },
+    {
+        "id": 13,
+        "name": "Leather Jacket",
+        "store": "Milan",
+        "regularPrice": 350.0,
+        "dealPrice": 300.0
+    },
+    {
+        "id": 14,
+        "name": "Sneakers",
+        "store": "Barcelona",
+        "regularPrice": 110.0,
+        "dealPrice": 95.0
+    }
+]

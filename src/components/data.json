@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "storeName": "Tech Haven",
+        "orderId": "12345",
+        "date": "2023-10-01",
+        "storeLocation": "New York",
+        "items": [
+            {
+                "id": 1,
+                "name": "Wireless Headphones",
+                "quantity": 2,
+                "regularPrice": 2050,
+                "dealPrice": 1980
+            },
+            {
+                "id": 2,
+                "name": "Smartwatch Pro",
+                "quantity": 1,
+                "regularPrice": 1230,
+                "dealPrice": 1100
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "storeName": "Gamer's Paradise",
+        "orderId": "67890",
+        "date": "2023-10-02",
+        "storeLocation": "Los Angeles",
+        "items": [
+            {
+                "id": 1,
+                "name": "Gaming Laptop",
+                "quantity": 1,
+                "regularPrice": 85000,
+                "dealPrice": 82000
+            },
+            {
+                "id": 2,
+                "name": "Mechanical Keyboard",
+                "quantity": 1,
+                "regularPrice": 4500,
+                "dealPrice": 4200
+            },
+            {
+                "id": 3,
+                "name": "Gaming Mouse",
+                "quantity": 2,
+                "regularPrice": 2200,
+                "dealPrice": 2000
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "storeName": "Home Cinema World",
+        "orderId": "54321",
+        "date": "2023-10-03",
+        "storeLocation": "Chicago",
+        "items": [
+            {
+                "id": 1,
+                "name": "4K LED TV",
+                "quantity": 1,
+                "regularPrice": 55000,
+                "dealPrice": 53000
+            },
+            {
+                "id": 2,
+                "name": "Home Theater System",
+                "quantity": 1,
+                "regularPrice": 12000,
+                "dealPrice": 11000
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "storeName": "Mobile Hub",
+        "orderId": "98765",
+        "date": "2023-10-04",
+        "storeLocation": "San Francisco",
+        "items": [
+            {
+                "id": 1,
+                "name": "Smartphone X",
+                "quantity": 1,
+                "regularPrice": 45000,
+                "dealPrice": 43000
+            },
+            {
+                "id": 2,
+                "name": "Wireless Earbuds",
+                "quantity": 2,
+                "regularPrice": 4500,
+                "dealPrice": 4000
+            },
+            {
+                "id": 3,
+                "name": "Smartwatch Lite",
+                "quantity": 1,
+                "regularPrice": 9500,
+                "dealPrice": 9000
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "storeName": "Appliance World",
+        "orderId": "11223",
+        "date": "2023-10-05",
+        "storeLocation": "Houston",
+        "items": [
+            {
+                "id": 1,
+                "name": "Refrigerator 300L",
+                "quantity": 1,
+                "regularPrice": 35000,
+                "dealPrice": 34000
+            },
+            {
+                "id": 2,
+                "name": "Microwave Oven",
+                "quantity": 1,
+                "regularPrice": 15000,
+                "dealPrice": 14000
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "storeName": "Gadget Store",
+        "orderId": "22334",
+        "date": "2023-10-06",
+        "storeLocation": "Seattle",
+        "items": [
+            {
+                "id": 1,
+                "name": "Tablet Pro",
+                "quantity": 1,
+                "regularPrice": 30000,
+                "dealPrice": 28000
+            },
+            {
+                "id": 2,
+                "name": "Bluetooth Speaker",
+                "quantity": 2,
+                "regularPrice": 5000,
+                "dealPrice": 4500
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "storeName": "Fashion World",
+        "orderId": "33445",
+        "date": "2023-10-07",
+        "storeLocation": "Miami",
+        "items": [
+            {
+                "id": 1,
+                "name": "Leather Jacket",
+                "quantity": 1,
+                "regularPrice": 7500,
+                "dealPrice": 7200
+            },
+            {
+                "id": 2,
+                "name": "Sneakers",
+                "quantity": 2,
+                "regularPrice": 4500,
+                "dealPrice": 4200
+            }
+        ]
+    }
+]
